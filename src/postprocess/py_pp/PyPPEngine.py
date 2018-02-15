@@ -6,7 +6,7 @@ It instantiates a CityManager, starts it, subscribes to the notifications topic
 and waits until Ctrl+'C' is pressed.
 """
 
-from CityManager import CityManager
+from engine.CityManager import CityManager
 import time
 
 
